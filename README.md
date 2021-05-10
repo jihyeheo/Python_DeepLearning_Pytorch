@@ -19,7 +19,7 @@
       **MNIST를 이용해 MLP(Multi Layers Perceptron) 설계**
 6. Performance indicator<br>
 
-## Part03. Deep Learning [[link]](https://github.com/jihyeheo/Python_DeepLearning_Pytorch/blob/main/Part03.Deep_Learning.ipynb) [[link[3-6]]]()
+## Part03. Deep Learning [[link]](https://github.com/jihyeheo/Python_DeepLearning_Pytorch/blob/main/Part03.Deep_Learning.ipynb) [[link2]](https://github.com/jihyeheo/Python_DeepLearning_Pytorch/blob/main/Part03.Deep_Learning2.ipynb)
 
 1. Deep learning definition<br>
 2. Motivation for the development of deep learning<br>
