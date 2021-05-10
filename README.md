@@ -16,5 +16,5 @@
 3. Machine learning definitions and types<br>
 4. Overfitting<br>
 5. Artificial neural network<br>
-      **MNIST를 이용해 MLP 설계**
+      **MNIST를 이용해 MLP(Multi Layers Perceptron) 설계**
 6. Performance indicator<br>
