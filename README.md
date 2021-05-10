@@ -31,3 +31,9 @@
       **MNIST를 이용해 MLP + Dropout + ReLU + BN + He Uniform Initialization**<br>
       **MNIST를 이용해 MLP + Dropout + ReLU + BN + He Uniform Initialization + Adam**<br>
       **[예제 3-6] 옷 종류 데이터 FashionMNIST를 활용해 AutoEncoder 설계하기**<br>
+      
+      
+## Part04. Computer Vision
+
+1. Convolutional Neural Network(CNN)<br>
+2. CNN and MLP<br>
